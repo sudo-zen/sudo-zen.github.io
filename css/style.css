@@ -59,7 +59,7 @@ p{margin-bottom: 0;color: #6d6d6d;}
 a {color:inherit;}
 br{line-height: 15px}
 ::-webkit-scrollbar-track {background-color: #e9edf0;border-left: 1px solid #ededed;}
-::-webkit-scrollbar {width: 7px;background-color: #385aef;}
+::-webkit-scrollbar {width: 7px;background-color: #ef3838;}
 ::-webkit-scrollbar-thumb {background: #385aef;}
 a:hover, a:active {color: #385aef;text-decoration: none;}
 a:focus, a:active, button:focus, button:active, .btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {outline: none;text-decoration: none}
