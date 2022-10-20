@@ -46,15 +46,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
 
 
-.main-font{font-family: 'Josefin+Sans', sans-serif;}
-.alt-font{font-family: 'Poppins', sans-serif;}
+.main-font{font-family: 'Josefin+Sans', Josefin+San;}
+.alt-font{font-family: 'Poppins', Josefin+San;}
 
 
 /* ===================================
     General
 ====================================== */
 
-body {font-family: 'Roboto', sans-serif; font-size: 15px;color: #2b2b2b;font-weight:300;line-height: 26px;letter-spacing: 0.5px;overflow-x: hidden;-webkit-font-smoothing: antialiased;}
+body {font-family: 'Josefin+Sans', Josefin+San; font-size: 15px;color: #2b2b2b;font-weight:300;line-height: 26px;letter-spacing: 0.5px;overflow-x: hidden;-webkit-font-smoothing: antialiased;}
 p{margin-bottom: 0;color: #6d6d6d;}
 a {color:inherit;}
 br{line-height: 15px}
