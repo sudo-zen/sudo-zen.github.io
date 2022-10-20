@@ -290,7 +290,7 @@ header a.logo img {max-height:35px; max-width: 100px;vertical-align: sub;}
     background: -moz-linear-gradient(left, #000000 2%, #000000 82%);
     background: -webkit-linear-gradient(left, #000000 2%, #f53232 82%);
     background: linear-gradient(to right, #bb0202 2%, #000000 82%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3264f5', endColorstr='#7202bb',GradientType=1 );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#bb0202',GradientType=1 );
 
 }
 
