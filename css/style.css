@@ -4287,7 +4287,7 @@ ul.count_down.white li p:nth-child(2) {
 }
 
 
-@media only screen and (max-device-width : 466px){
+@media only screen and (max-device-width : 1920px){
 
     .rev_slider .caption, .rev_slider .tp-caption p{
         line-height: 1.2 !important;
