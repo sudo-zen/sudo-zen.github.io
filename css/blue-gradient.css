@@ -33,10 +33,10 @@ a:active {
 .overlay-two:before,
 .price-two.hvr-gradient:hover,
 .loader {
-  background: #3264f5;
-  background: -moz-linear-gradient(left, #3264f5 2%, #0080ff 82%);
-  background: -webkit-linear-gradient(left, #3264f5 2%, #0080ff 82%);
-  background: linear-gradient(to right, #3264f5 2%, #0080ff 82%);
+  background: #f5aa32;
+  background: -moz-linear-gradient(left, #404246 2%, #ff8c00 82%);
+  background: -webkit-linear-gradient(left, #de833d 2%, #000000 82%);
+  background: linear-gradient(to right, #000000 2%, #d0772a 82%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@colorPrimary', endColorstr='@colorSecondary', GradientType=1);
 }
 .header-appear .navbar-top-default.navbar-gradient {
