@@ -723,7 +723,7 @@ header .center-logo a.logo img {max-width: 130px;}
 
 .slider-social{
     display: inline-block;
-    position: absolute;
+    position: Bottom;
     top: 50%;
     transform: translateY(-50%);
     right: 30px;
