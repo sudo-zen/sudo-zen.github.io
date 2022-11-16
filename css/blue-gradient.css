@@ -1,21 +1,3 @@
-/* ===================================
-    About
-====================================== */
-/*
-    Theme Name: Wexim
-    Theme URI:
-    Author: Themes Industry
-    Author URI:
-    Description: One Page Parallax Template
-    Tags: one page, multipurpose, parallax, creative, html5
-
- */
-/* ===================================
-    Variables
-====================================== */
-/* ===================================
-    Styling
-====================================== */
 ::-webkit-scrollbar {
   background-color: #3264f5;
 }
@@ -42,7 +24,7 @@ a:active {
 .header-appear .navbar-top-default.navbar-gradient {
   background: #3264f5;
   background: -moz-linear-gradient(left, #ff8000 2%, #f59d32 82%);
-  background: -webkit-linear-gradient(left, #0080ff 2%, #3264f5 82%);
+  background: -webkit-linear-gradient(left, #4c5156 2%, #f5a132 82%);
   background: linear-gradient(to right, #4f4b4b 2%, #585b63 82%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@colorPrimary', endColorstr='@colorPrimary', GradientType=1);
 }
