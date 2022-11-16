@@ -114,9 +114,9 @@ a {text-decoration: none;}
 
 .gradient-bg1{
     background: #3264f5;
-    background: -moz-linear-gradient(left, #3264f5 2%, #7202bb 82%);
+    background: -moz-linear-gradient(left, #f5b732 2%, #000000 82%);
     background: -webkit-linear-gradient(left, #3264f5 2%,#7202bb 82%);
-    background: linear-gradient(to right, #3264f5 2%,#7202bb 82%);
+    background: linear-gradient(to right, #f59d32 2%,#bb5e02 82%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3264f5', endColorstr='#7202bb',GradientType=1 );
 }
 
