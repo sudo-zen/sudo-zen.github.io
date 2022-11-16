@@ -3582,7 +3582,7 @@ ul.count_down.white li p:nth-child(2) {
 /*Rev slider*/
 
 .rev_slider .tp-mask-wrap .tp-caption.Photography-Menuitem{
-    color: #fff !important;
+    color: rgb(254, 123, 0) !important;
     background: #3264f5;
 }
 
