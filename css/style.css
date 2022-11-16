@@ -287,7 +287,7 @@ header a.logo img {max-height:35px; max-width: 100px;vertical-align: sub;}
 }
 .header-appear .navbar-top-default.navbar-gradient{
     background: rgb(243, 101, 39);
-    background: -moz-linear-gradient(left, #7202bb 2%, #3264f5 82%);
+    background: -moz-linear-gradient(left, rgb(243, 101, 39) 2%, #3264f5 82%);
     background: -webkit-linear-gradient(left, rgb(243, 101, 39) 2%, #3264f5 82%);
     background: linear-gradient(to right, #000000 2%, #000000 82%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3264f5', endColorstr='#7202bb',GradientType=1 );
