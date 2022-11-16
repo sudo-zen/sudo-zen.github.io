@@ -725,7 +725,7 @@ header .center-logo a.logo img {max-width: 130px;}
     display: inline-block;
     position: Bottom;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateY(0%);
     right: 30px;
     z-index: 13;
 }
