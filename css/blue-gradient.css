@@ -65,7 +65,7 @@ a:active {
 .cube-portfolio1 .cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active,
 .blog-item-content h4 a:hover {
   background: #3264f5;
-  background: -moz-linear-gradient(left, #3264f5 2%, #0080ff 82%);
+  background: -moz-linear-gradient(left, #f5be32 2%, #000000 82%);
   background: -webkit-linear-gradient(left, #3264f5 2%, #0080ff 82%);
   background: linear-gradient(to right, #3264f5 2%, #0080ff 82%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@colorPrimary', endColorstr='@colorSecondary', GradientType=1);
