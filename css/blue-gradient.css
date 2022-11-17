@@ -71,7 +71,7 @@ a:active {
 .team-box-two .team-two-block::before,
 .scroll-top-arrow,
 .widget .search-btn {
-  background-image: linear-gradient(to right, #3264f5 0%, #0080ff 51%, #3264f5 100%);
+  background-image: linear-gradient(to right, #f58032 0%, #5b5e61 51%, #f58732 100%);
 }
 .header-appear .nav-box-round .navbar-nav .nav-link.active,
 .owl-dots .owl-dot::after,
