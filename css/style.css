@@ -154,7 +154,7 @@ a {text-decoration: none;}
 .btn.btn-black:hover, .btn.btn-black:focus {background: transparent !important; border-color: #2b2b2b; color: #2b2b2b !important}
 .btn.btn-blue {background: #00bcd4; border-color: #00bcd4; color: #ffffff}
 .btn.btn-blue:hover, .btn.btn-blue:focus {background: transparent !important; border-color: #00bcd4; color: #00bcd4 !important}
-.btn.btn-gradient{color: #ffffff; flex: 1 1 auto;transition: 0.5s;background-size: 200% auto;background-image: linear-gradient(to right, #3264f5 0%, #7202bb 51%, #3264f5 100%);}
+.btn.btn-gradient{color: #ffffff; flex: 1 1 auto;transition: 0.5s;background-size: 200% auto;background-image: linear-gradient(to right, #f58d32 0%, #69646c 51%, #f5a432 100%);}
 .btn.btn-gradient:hover{background-position: right center;}
 .btn.btn-hvr-white:hover, .btn.btn-hvr-white:focus {background: #ffffff !important; border-color: #ffffff; color: #585858 !important}
 
