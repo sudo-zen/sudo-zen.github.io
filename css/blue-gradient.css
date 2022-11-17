@@ -47,9 +47,9 @@ a:active {
 .cube-portfolio1 .cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active,
 .blog-item-content h4 a:hover {
   background: #3264f5;
-  background: -moz-linear-gradient(left, #f5be32 2%, #000000 82%);
-  background: -webkit-linear-gradient(left, #f56d32 2%, #514f4d 82%);
-  background: linear-gradient(to right, #f59a32 2%, #41464b 82%);
+  background: -moz-linear-gradient(left, #f5be32 30%, #000000 70%);
+  background: -webkit-linear-gradient(left, #f56d32 30%, #514f4d 70%);
+  background: linear-gradient(to right, #f59a32 30%, #41464b 70%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@colorPrimary', endColorstr='@colorSecondary', GradientType=1);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
