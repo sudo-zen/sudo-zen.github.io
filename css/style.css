@@ -127,9 +127,9 @@ a {text-decoration: none;}
 
 .gradient-text1{
     background: #3264f5;
-    background: -moz-linear-gradient(left, #3264f5 2%, #7202bb 82%);
-    background: -webkit-linear-gradient(left, #3264f5 2%,#7202bb 82%);
-    background: linear-gradient(to right, #3264f5 2%,#7202bb 82%);
+    background: -moz-linear-gradient(left, #f59432 2%, #534f4b 82%);
+    background: -webkit-linear-gradient(left, #f59032 2%,#534c57 82%);
+    background: linear-gradient(to right, #46484f 2%,#bb4902 82%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3264f5', endColorstr='#7202bb',GradientType=1 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
